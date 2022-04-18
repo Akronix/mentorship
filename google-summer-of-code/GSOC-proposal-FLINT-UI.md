@@ -67,7 +67,3 @@ very good opportunity to get started with real open-source projects, to develop 
 remote working, good coding practices) and get precious knowledge and experience.
 This project gives me the opportunity to do something with real impact and useful for the society by
 extension.
-
-
-### Appendix
-
