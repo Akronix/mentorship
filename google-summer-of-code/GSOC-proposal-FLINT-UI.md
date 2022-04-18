@@ -3,10 +3,14 @@
 ## GCBM Simulation Editor for FLINT-UI
 
 ### Applicant information
+
 Name: Abel Serrano Juste
+
 github account: Akronix
+
 Location (country or state): Spain
-Mentors: @aornugent and @HarshCasper
+
+Mentors: @aornugent, @gabalafou
 
 ### Abstract
 
