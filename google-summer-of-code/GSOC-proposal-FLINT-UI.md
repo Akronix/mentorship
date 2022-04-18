@@ -25,7 +25,7 @@ I want to contribute in a project related to environment management and climate 
 * Make an user story of an user intending to do a simulation with FLINT.(*)
 * Study current workflow to create and run a simulation.
 * Improve current UI based on previous studies.
-* Design the layout for configuration of parameters window.
+* Design the layout for configuration of parameters window. There's already a wireframe for this window here: https://wireframe.cc/rLPTTX
 * Implement the above layout
 * Implement widgets
 * Create configuration from widgets and test the workflow.
