@@ -12,7 +12,7 @@ I want to contribute in a project related to environment management and climate 
 
 ### Project plan
 
-* Make a user story of an user intending to do a simulation with FLINT.(*)
+* Make an user story of an user intending to do a simulation with FLINT.(*)
 * Study current workflow to create and run a simulation.
 * Do some fixes of usability of current UI extracted from the previous studies.
 * Design the layout for configuration of parameters window.
@@ -20,21 +20,18 @@ I want to contribute in a project related to environment management and climate 
 * Implement widgets
 * Create configuration from widgets and test the workflow.
 
-(*): Potentially, It could be required to make more user stories for different personas or user cases.
+(*): Potentially, It could be required to make many user stories for different personas or user cases.
 
 ### Schedule of Deliverables
 
-|Days/Dates |Deliverable |
---- | --- | ---|
-|May 4 - Jun 1|Community bonding period: spend time interacting with Analytics team at
-WikiMedia, understand common practices and norms
-Learn about the technologies & infrastructure being used within the Analytics
-team. Read and understand documentation|
-|Jun 1 - Jun 14|data12|
-|Jun 15 - Jun 28|data23|
 
-
-
+| Days/Dates         | Deliverable      |
+|--------------------|------------------|
+| May 20 - Jun 12 | Community Bonding Period. Participate in UI meetings, get to know mentors and other members of the organization.|
+| May 20 - Jun 12 | Learn Vue.JS|
+| Jun 13 - Jun 19 | Create first user story|
+| Jun 20 - Jun 26 | Study current workflow      |
+| Jun 27 - Jul 3 | Study current workflow      |
 
 ### Past contributions
 
@@ -44,7 +41,12 @@ Issue:
 
 ### Past experience
 
-> Add your past coding experiences. Refer to any internship, freelance, professional or open-source work that you have did in the past (including personal projects)
+In my first job, I was working as a full-stack developer of a webapplication fully in Javascript. I coded mostly in ReactJS, although I had to do a bit of nodeJS and mongo for the backend.
+Later on I was working in the university as an asistant researcher. There I was downloading, processing and analyzing
+big ammounts of data. I also developed [WikiChron](https://wikichron.science/), a web app to visualize metrics and
+networks upon wiki communities from their historical data.
+I have also done some small contributions to other open source projects from time to time (you can
+see some of my contributions in my github profile).
 
 ### About me
 I graduated in 2015 of my Bachelor's in Computer Science in the Universidad Complutense de
