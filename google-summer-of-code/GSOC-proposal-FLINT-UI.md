@@ -2,6 +2,12 @@
 
 ## GCBM Simulation Editor for FLINT-UI
 
+### Applicant information
+Name: Abel Serrano Juste
+github account: Akronix
+Location (country or state): Spain
+Mentors: @aornugent and @HarshCasper
+
 ### Abstract
 
 Currently, there's an user interface to launch [The Full Lands Integration Tool (FLINT)](https://moja.global/flint/), called FLINT-UI. However, this interface lacks a way to modify the configuration parameters for the underneath model, [the Generic Carbon Budget Model (GCBM)](https://community.moja.global/docs/GCBM/GCBM), which is capable to moderate the carbon flow of a given area. This project implements that missing interface for the user to visually configure the input parameters for the model, prior to run any simulation with the aforementioned model.
