@@ -14,7 +14,7 @@ I want to contribute in a project related to environment management and climate 
 
 * Make an user story of an user intending to do a simulation with FLINT.(*)
 * Study current workflow to create and run a simulation.
-* Do some fixes of usability of current UI extracted from the previous studies.
+* Improve current UI based on previous studies.
 * Design the layout for configuration of parameters window.
 * Implement the above layout
 * Implement widgets
@@ -28,16 +28,21 @@ I want to contribute in a project related to environment management and climate 
 | Days/Dates         | Deliverable      |
 |--------------------|------------------|
 | May 20 - Jun 12 | Community Bonding Period. Participate in UI meetings, get to know mentors and other members of the organization.|
-| May 20 - Jun 12 | Learn Vue.JS|
+| May 20 - Jun 12 | Learn Vue.JS. Get familar with current codebase.|
 | Jun 13 - Jun 19 | Create first user story|
-| Jun 20 - Jun 26 | Study current workflow      |
-| Jun 27 - Jul 3 | Study current workflow      |
+| Jun 20 - Jul 3 | Study current workflow & improve current UI  |
+| Jul 4 - Jul 10 | Design layout for new window   |
+| Jul 11 - Jul 29 | Implement new layout & widgets |
+| Jul 29 | _Evaluation Phase 1_ |
+| Aug 1 - Aug 14 | Add functionality to widgets and layout|
+| Aug 15 - Aug 28| Last refinements: Document whatever is not documented, code tests, clean-up code, etc.
+| Aug 29 - Sept 4| Bonus week: To use in case some things need to be finished and there was not time before.
+| Sept 5 - Sept 12| _Prepare and submit final work. Evaluation phase 2_
 
 ### Past contributions
 
-Issue: 
+Issue: https://github.com/moja-global/FLINT-UI/issues/235
 
-> Have you contributed to moja global before? Express them here in a neat table, divided into the appropriate projects, contribution type and the PR/Issue link. We appreciate all kinds of contributions; If your contribution doesn't fall into any category, add a note about it. Optionally, mention your contributions in other communities if your work overlaps with the current project you are proposing.
 
 ### Past experience
 
