@@ -6,7 +6,7 @@
 
 Name: Abel Serrano Juste
 
-github account: Akronix
+github account: @Akronix
 
 Location (country or state): Spain
 
